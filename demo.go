@@ -4,10 +4,11 @@ import (
 	"flag"
 	"fmt"
 
-	"demo/test/rpc/demo"
 	"demo/test/rpc/internal/config"
 	"demo/test/rpc/internal/server"
 	"demo/test/rpc/internal/svc"
+
+	"github.com/logan-liang/rpc/demo"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/service"

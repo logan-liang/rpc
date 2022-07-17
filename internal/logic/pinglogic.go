@@ -3,8 +3,9 @@ package logic
 import (
 	"context"
 
-	"demo/test/rpc/demo"
 	"demo/test/rpc/internal/svc"
+
+	"github.com/logan-liang/rpc/demo"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

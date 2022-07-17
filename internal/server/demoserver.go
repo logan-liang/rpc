@@ -6,7 +6,7 @@ package server
 import (
 	"context"
 
-	"demo/test/rpc/demo"
+	"github.com/logan-liang/rpc/demo"
 	"demo/test/rpc/internal/logic"
 	"demo/test/rpc/internal/svc"
 )

@@ -1,4 +1,4 @@
-module demo/test/rpc
+module github.com/logan-liang/rpc
 
 go 1.16
 
